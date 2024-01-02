@@ -9,5 +9,6 @@ controltype:openpose
 preprocessor:openposefull
 step2
 samplingsteps20
+CFG7.0
 seed-1
 
