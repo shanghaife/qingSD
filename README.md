@@ -1,4 +1,4 @@
-# Stable Diffusion web UI QING
+# Stable Diffusion web UI Q
 A browser interface based on Gradio library for Stable Diffusion.
 
 ![](screenshot.png)
