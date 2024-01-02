@@ -1,3 +1,4 @@
+clipskip2
 checkpoints1.5-2.0XL
 vae84000
 prompt美女
@@ -7,7 +8,6 @@ adetailer1.0
 controlnet00
 controltype:openpose
 preprocessor:openposefull
-step2
 samplingsteps20
 CFG7.0
 seed-1
