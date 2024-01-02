@@ -5,5 +5,6 @@ textualinversion坏手修复
 lora0.8麦橘\幽墨人造人
 adetailer1.0
 controlnet00
+controltype:openpose
 step2
 
