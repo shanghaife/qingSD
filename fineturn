@@ -8,4 +8,6 @@ controlnet00
 controltype:openpose
 preprocessor:openposefull
 step2
+samplingsteps20
+seed-1
 
