@@ -1,3 +1,4 @@
+liblib
 clipskip2
 checkpoints1.5-2.0XL
 vae840000
@@ -14,3 +15,8 @@ seed-1
 modelT2
 embedding
 text2vec
+tusiart
+checkpoints好吃米
+embeding:bad-artist
+10241024
+采样方法lmkarras
