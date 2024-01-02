@@ -3,11 +3,12 @@ clipskip2
 checkpoints1.5-2.0XL
 vae840000
 prompt美女
+提示词1girl,moyou,(masterpiece,top quality,best quality,official art,beautiful and aesthetic:1.2),(1girl:1.3),extremely detailed,(fractal art:1.1)(colorful:1.1)(flowers:1.3),highest detailed,(zentangle:1.2),(dynamic pose),(abstract background:1.3),(many colors:1.4),(earrings),(feathers:1.50)
 textualinversion坏手修复
-lora0.8麦橘\幽墨人造人
+lora0.8麦橘\幽墨人造人\不要油光和网红脸
 adetailer1.0
 controlnet00
-controltype:openpose
+controltype:openpose0.8/0.0-1.0
 preprocessor:openposefull
 samplingsteps20
 CFG7.0
