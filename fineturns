@@ -15,7 +15,7 @@ samplingsteps20
 CFG7.0
 seed-1
 modelT2
-embedding
+embeddings
 text2vec
 tusiart
 checkpoints好吃米
